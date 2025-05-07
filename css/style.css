@@ -317,11 +317,15 @@ h2::after {
 
 .stats tr:hover {
   background-color: #ddd;
+  color: #f7c600;
 }
 
 .stats td {
   font-weight: 500;
-  color: #333;
+  color: #b38888;
+}
+.stats tr:hover td {
+  color: #f7c600;         
 }
 
 
